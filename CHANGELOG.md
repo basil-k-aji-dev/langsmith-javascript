@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.14.1](https://github.com/langchain-ai/langsmith-javascript/compare/v0.14.0...v0.14.1) (2026-11-23)
+
+
+### Features
+
+* **annotation-queues:** list a queue's reviewers with their progress ([b69efc8](https://github.com/langchain-ai/langsmith-javascript/commit/b69efc88efbc70e6cbdd2d4cc1f14429c514f1bc))
+
+
+### Bug Fixes
+
+* **sdk:** log Gemini model turns with the assistant role in wrapper inputs ([d87590b](https://github.com/langchain-ai/langsmith-javascript/commit/d87590b78b21e613ed38b5ac15b5ea40fcfa842d))
+
 ## [0.14.0](https://github.com/langchain-ai/langsmith-javascript/compare/v0.13.1...v0.14.0) (2026-11-23)
 
 
